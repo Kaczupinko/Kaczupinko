@@ -45,6 +45,6 @@
 
 ## 🌐 Let's Connect!
 
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/radoslaw-jadczyk-27550217b)
+- [Twitter](https://twitter.com/_Keczupeq192)
 
