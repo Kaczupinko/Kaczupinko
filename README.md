@@ -28,8 +28,8 @@
 
 ## 📹 Recent Projects
 
-- **[Project Name 1](#)** - Short description of the project.
-- **[Project Name 2](#)** - Another short description.
+- **[Project Name 1](#)** - /
+- **[Project Name 2](#)** - /
 
 ---
 
