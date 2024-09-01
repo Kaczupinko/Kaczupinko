@@ -19,13 +19,6 @@
 
 ---
 
-### 💻 Projects
-
-- **[Project Name 1](#)** - A brief description of what the project is about.
-- **[Project Name 2](#)** - A brief description of what the project is about.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
